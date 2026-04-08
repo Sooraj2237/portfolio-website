@@ -28,7 +28,7 @@ export default function Hero() {
             View My Work
           </a>
           <a 
-            href="/resume.pdf" 
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-transparent border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-gray-900 font-semibold rounded-lg transition duration-300 w-full sm:w-auto"
