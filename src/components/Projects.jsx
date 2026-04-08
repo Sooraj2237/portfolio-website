@@ -7,7 +7,7 @@ export default function Projects() {
       description: "A comprehensive frontend dashboard built to track coding skills, project milestones, and job application pipelines. Features full CRUD functionality, dynamic routing, and persistent data storage using localStorage.",
       tech: ["React", "Tailwind CSS", "localStorage", "Routing"],
       githubLink: "https://github.com/Sooraj2237/dev-career-os",
-      liveLink: "https://sooraj2237/github.io/dev-career-os"
+      liveLink: "https://sooraj2237.github.io/dev-career-os"
     },
     {
       title: "Gamified Study Planner",
